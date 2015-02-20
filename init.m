@@ -11,6 +11,7 @@
 {
     if (!(self = [super init])) return nil;
 
-<#initializations#>
-
-return self;
+    <#initializations#>
+    
+    return self;
+}
