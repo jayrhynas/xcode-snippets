@@ -2,7 +2,7 @@
 // 
 //
 // IDECodeSnippetCompletionPrefix: documents
-// IDECodeSnippetCompletionScopes: [StringOrComment]
+// IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 5823B188-6D8B-463D-9871-8EE1CD5F7CD0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
