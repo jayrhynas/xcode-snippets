@@ -7,7 +7,9 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-- (instancetype)init)if (!(self = [super init])) return nil;
+- (instancetype)init
+{
+    if (!(self = [super init])) return nil;
 
 <#initializations#>
 
