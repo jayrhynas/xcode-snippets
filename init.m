@@ -10,7 +10,7 @@
 - (instancetype)init
 {
     if (!(self = [super init])) return nil;
-
+    
     <#initializations#>
     
     return self;
